@@ -1,9 +1,11 @@
-h1 {
+h1#title {
     text-align: center;
+    font-family: 'Raleway', sans-serif;
 }
 
 p#ip {
     text-align: center;
+    font-family: 'Varela Round', sans-serif;
 }
 
 body {
@@ -34,3 +36,4 @@ h2 {
 .future {
     display: inline;
 }
+

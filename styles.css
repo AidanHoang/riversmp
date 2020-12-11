@@ -4,6 +4,13 @@ h1#title {
     font-weight: bold;
 }
 
+h1#rivertitle {
+    text-align: center;
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+}
+
+
 p#ip {
     text-align: center;
     font-family: 'Varela Round', sans-serif;
